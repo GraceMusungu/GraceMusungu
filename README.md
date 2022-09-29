@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GraceMusungu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Data Analysis/Engineering/Science projects
 - 📫 How to reach me gracemutheumusungu@gmail.com
 
